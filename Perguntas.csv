@@ -1,0 +1,190 @@
+Pergunta, Categoria
+Quero consultar o valor da minha fatura, Fatura
+Quando vence minha próxima fatura?, Fatura
+Quero ver os lançamentos da minha fatura, Fatura
+Minha fatura ainda não fechou?, Fatura
+Como faço para acessar minha fatura?, Fatura
+Quero uma segunda via da minha fatura, Fatura
+Por que minha fatura veio mais alta este mês?, Fatura
+Gostaria de consultar minhas faturas anteriores, Fatura
+Minha fatura está disponível para pagamento?, Fatura
+Quero saber o valor total que preciso pagar, Fatura
+Como faço para pagar minha fatura?, Pagamento
+Meu pagamento ainda não foi reconhecido, Pagamento
+Quero confirmar se o pagamento foi realizado, Pagamento
+Paguei minha fatura duas vezes, Pagamento
+Posso pagar minha fatura com Pix?, Pagamento
+Quanto tempo demora para compensar o pagamento?, Pagamento
+Quero antecipar o pagamento da minha fatura, Pagamento
+Como faço para pagar um valor parcial da fatura?, Pagamento
+Meu pagamento foi recusado, Pagamento
+Quero saber se existe algum pagamento pendente, Pagamento
+Qual é o limite disponível do meu cartão?, Limite
+Quero solicitar um aumento de limite, Limite
+Como faço para reduzir meu limite?, Limite
+Por que meu limite diminuiu?, Limite
+Quando meu limite será atualizado após o pagamento?, Limite
+Quero consultar meu limite total, Limite
+Meu limite está comprometido, Limite
+Posso transferir limite entre cartões?, Limite
+Como faço para liberar mais limite?, Limite
+Quero saber por que meu aumento de limite foi negado, Limite
+Quero solicitar um novo cartão, Cartão
+Meu cartão ainda não chegou, Entrega
+Como faço para acompanhar a entrega do meu cartão?, Entrega
+Meu cartão foi perdido, Bloqueio
+Quero bloquear meu cartão temporariamente, Bloqueio
+Preciso cancelar meu cartão, Cancelamento
+Meu cartão foi roubado, Bloqueio
+Quero desbloquear meu cartão novo, Desbloqueio
+Como faço para ativar meu cartão?, Desbloqueio
+Meu cartão está danificado, Cartão
+Meu cartão não está passando nas compras, Compra
+Por que meu cartão foi recusado?, Compra
+Não reconheço uma compra na minha fatura, Contestação
+Quero contestar uma compra, Contestação
+Fiz uma compra e ela não aparece na fatura, Compra
+Minha compra foi cobrada duas vezes, Contestação
+Quero saber onde foi realizada uma compra, Compra
+Meu cartão foi utilizado sem minha autorização, Fraude
+Recebi uma cobrança desconhecida, Contestação
+Minha compra foi cancelada, mas continuo sendo cobrado, Contestação
+Quero consultar minhas últimas compras, Compra
+Como faço para parcelar minha fatura?, Parcelamento
+Quero antecipar as parcelas de uma compra, Parcelamento
+Posso parcelar uma compra já realizada?, Parcelamento
+Quero consultar minhas compras parceladas, Parcelamento
+Qual é o valor das parcelas da minha compra?, Parcelamento
+Como funciona o parcelamento da fatura?, Parcelamento
+Quero cancelar o parcelamento da minha fatura, Parcelamento
+Posso alterar a quantidade de parcelas?, Parcelamento
+Quero saber quanto falta para terminar meu parcelamento, Parcelamento
+Minha compra parcelada foi cobrada integralmente, Contestação
+Qual é o valor da anuidade do meu cartão?, Anuidade
+Quero saber se meu cartão tem anuidade, Anuidade
+Como faço para conseguir isenção da anuidade?, Anuidade
+Por que fui cobrado pela anuidade?, Anuidade
+Quero negociar o valor da minha anuidade, Anuidade
+Existe algum cartão sem anuidade?, Anuidade
+Quando será cobrada minha próxima anuidade?, Anuidade
+Minha anuidade foi cobrada indevidamente, Contestação
+Posso cancelar a anuidade do meu cartão?, Anuidade
+Quais são as condições para não pagar anuidade?, Anuidade
+Esqueci a senha do meu cartão, Senha
+Quero alterar a senha do meu cartão, Senha
+Como faço para cadastrar uma nova senha?, Senha
+Minha senha está bloqueada, Senha
+Errei minha senha várias vezes, Senha
+Quero recuperar minha senha de acesso, Senha
+Como faço para consultar minha senha?, Senha
+Não consigo cadastrar a senha do cartão, Senha
+Minha senha não está funcionando, Senha
+Quero desbloquear minha senha, Senha
+Como faço para atualizar meu endereço?, Cadastro
+Quero alterar meu número de telefone, Cadastro
+Preciso atualizar meu endereço de e-mail, Cadastro
+Como faço para mudar meus dados cadastrais?, Cadastro
+Quero corrigir meu nome no cadastro, Cadastro
+Meu telefone cadastrado está errado, Cadastro
+Como faço para atualizar meu CPF?, Cadastro
+Quero consultar meus dados cadastrais, Cadastro
+Preciso alterar minha data de nascimento, Cadastro
+Não consigo acessar meus dados pessoais, Cadastro
+Como faço para ativar as compras internacionais?, Internacional
+Quero liberar meu cartão para compras no exterior, Internacional
+Meu cartão foi recusado em uma compra internacional, Internacional
+Qual é a cotação utilizada nas compras internacionais?, Internacional
+Quero consultar uma compra feita em dólar, Internacional
+Posso usar meu cartão em viagens internacionais?, Internacional
+Como funciona o IOF nas compras internacionais?, Internacional
+Quero bloquear compras internacionais, Internacional
+Minha compra internacional foi cobrada incorretamente, Contestação
+Quero saber quais são as taxas para compras no exterior, Internacional
+Como faço para consultar meu cashback?, Cashback
+Quero resgatar meu cashback acumulado, Cashback
+Meu cashback não foi creditado, Cashback
+Quanto cashback recebo nas minhas compras?, Cashback
+Quais compras geram cashback?, Cashback
+Quando meu cashback será disponibilizado?, Cashback
+Quero consultar o saldo do meu cashback, Cashback
+Como faço para utilizar meu cashback?, Cashback
+Meu cashback expirou, Cashback
+Quero saber se tenho cashback disponível, Cashback
+Quantos pontos tenho acumulados?, Pontos
+Quero consultar meu saldo de pontos, Pontos
+Como faço para resgatar meus pontos?, Pontos
+Meus pontos não foram creditados, Pontos
+Quando meus pontos vão expirar?, Pontos
+Quero trocar meus pontos por produtos, Pontos
+Como funciona o programa de pontos?, Pontos
+Posso transferir meus pontos para outra pessoa?, Pontos
+Quero saber quantos pontos ganhei em uma compra, Pontos
+Meus pontos desapareceram da conta, Pontos
+Quero contratar um cartão adicional, Adicional
+Como faço para solicitar um cartão adicional?, Adicional
+Qual é o limite do cartão adicional?, Adicional
+Quero bloquear o cartão adicional, Adicional
+Como consultar as compras do cartão adicional?, Adicional
+Quero cancelar um cartão adicional, Adicional
+Posso solicitar um cartão adicional para meu filho?, Adicional
+O cartão adicional tem cobrança de anuidade?, Adicional
+Como faço para desbloquear o cartão adicional?, Adicional
+Quero alterar os dados do titular do adicional, Adicional
+Quero consultar os juros do meu cartão, Juros
+Por que foram cobrados juros na minha fatura?, Juros
+Qual é a taxa de juros do crédito rotativo?, Juros
+Como funciona o crédito rotativo?, Rotativo
+Quero sair do crédito rotativo, Rotativo
+Quanto vou pagar de juros se atrasar a fatura?, Juros
+Minha fatura tem uma cobrança de juros indevida, Contestação
+Quero consultar o CET do meu cartão, Juros
+Como faço para evitar pagar juros?, Juros
+Quais são as taxas cobradas pelo cartão?, Tarifas
+Quero consultar o vencimento da minha fatura, Vencimento
+Posso alterar a data de vencimento da fatura?, Vencimento
+Quero mudar o dia de vencimento do meu cartão, Vencimento
+Qual é o melhor dia para fazer compras?, Vencimento
+Quando fecha minha fatura?, Vencimento
+Minha data de vencimento foi alterada, Vencimento
+Quero saber se posso escolher outra data de vencimento, Vencimento
+Posso adiar o vencimento da minha fatura?, Vencimento
+Quero antecipar o fechamento da minha fatura, Vencimento
+Minha fatura venceu e não consegui pagar, Atraso
+Estou com uma fatura atrasada, Atraso
+Como faço para negociar minha dívida?, Negociação
+Quero renegociar o saldo devedor do cartão, Negociação
+Meu cartão foi bloqueado por falta de pagamento, Bloqueio
+Como faço para regularizar minha dívida?, Negociação
+Quero consultar o valor total da minha dívida, Negociação
+Existe alguma proposta para quitar minha dívida?, Negociação
+Posso dividir minha dívida em parcelas?, Negociação
+Já paguei minha dívida, mas meu cartão continua bloqueado, Desbloqueio
+Quero saber se meu cartão tem seguro, Seguro
+Como faço para contratar um seguro para meu cartão?, Seguro
+Quero cancelar o seguro do meu cartão, Seguro
+Fui cobrado por um seguro que não contratei, Contestação
+Como funciona a proteção contra fraudes?, Segurança
+Quero ativar as notificações de compras, Notificações
+Não estou recebendo notificações das minhas compras, Notificações
+Como faço para desativar as notificações?, Notificações
+Quero receber alertas quando minha fatura fechar, Notificações
+Posso receber notificações por SMS?, Notificações
+Não consigo entrar no aplicativo do cartão, Aplicativo
+Esqueci minha senha de acesso ao aplicativo, Aplicativo
+O aplicativo está apresentando erro, Aplicativo
+Como faço para consultar meu cartão pelo aplicativo?, Aplicativo
+Não consigo visualizar minha fatura no aplicativo, Aplicativo
+Quero atualizar o aplicativo do cartão, Aplicativo
+Meu aplicativo não mostra meu limite disponível, Aplicativo
+Como faço para cadastrar meu cartão no aplicativo?, Aplicativo
+Não consigo fazer login na minha conta, Aplicativo
+Quero saber como falar com um atendente, Atendimento
+Preciso falar com o suporte do cartão, Atendimento
+Qual é o telefone da central de atendimento?, Atendimento
+Quero registrar uma reclamação, Reclamação
+Como faço para acompanhar minha solicitação?, Atendimento
+Quero consultar o protocolo do meu atendimento, Atendimento
+Preciso de ajuda com meu cartão de crédito, Atendimento
+Meu cartão está apresentando problemas, Atendimento
+Quero cancelar minha conta e meu cartão, Cancelamento
+Como faço para encerrar meu relacionamento com a operadora?, Cancelamento
